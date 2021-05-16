@@ -1,0 +1,14 @@
+{
+  "name": "new-poj",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "venkat",
+  "private": true,
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
